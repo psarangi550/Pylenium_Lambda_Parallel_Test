@@ -1,0 +1,37 @@
+{
+  "driver": {
+    "browser": "chrome",
+    "remote_url": "",
+    "wait_time": 10,
+    "page_load_wait_time": 0,
+    "options": [],
+    "capabilities":{
+      "LT:Options" : {
+        "user" : "psarangi50",
+        "accessKey" : "f0kClPeDcZ8sp9CrpmHxFsKYz7NTEhQ2m5n83MQuCeElH213I0",
+        "build" : "pylenium build",
+        "name" : "pylenium build run",
+        "platformName" : "Windows 11"
+      },
+      "browserName" : "Chrome",
+      "browserVersion" : "102.0"
+    },
+    "version": "latest",
+    "experimental_options": null,
+    "extension_paths": [],
+    "webdriver_kwargs": {},
+    "seleniumwire_options": {},
+    "local_path": ""
+  },
+  "logging": {
+    "screenshots_on": true
+  },
+  "viewport": {
+    "maximize": true,
+    "width": 1440,
+    "height": 900,
+    "orientation": "portrait"
+  },
+
+  "customer": {}
+}

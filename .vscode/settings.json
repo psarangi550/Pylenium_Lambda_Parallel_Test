@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "Pylenium_with_lambdatest"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
